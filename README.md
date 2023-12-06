@@ -1,7 +1,8 @@
 Olá eu sou Luiz Carlos 👋
 
 - 🔭 I’m currently working on AWS projects
-- 🌱 I’m currently learning Shell Script and Python
+- 🌱 I’m currently working Shell Script and Python
+- 💻 I’m currently learning AWS Cloud Formation 
   
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luizon7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
