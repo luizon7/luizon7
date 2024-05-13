@@ -6,7 +6,7 @@ DevOps engineer
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [lccarlos01@gmail.com](mailto:lccarlos01@gmail.com)
-* 🚀  I'm job opening offer
+* 🚀  I'm open to job offer
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on AWS Cloud e Azure infraestructure projects
 
