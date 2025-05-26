@@ -6,7 +6,7 @@ DevOps engineer
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [lccarlos01@gmail.com](mailto:lccarlos01@gmail.com)
-* 🚀  I'm Working on Dexian
+* 🚀  I'm Working on Elumini-IT
 * 🤝  I'm open to collaborating on AWS Cloud and Azure infraestructure projects
 
 <b>My GitHub Stats</b>
